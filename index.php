@@ -9,42 +9,71 @@
   <title>CSCI E-15 | Project 1</title>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-
-<style>
-  body {background-color:white;}
-  h1, h2, h3  {color:blue; text-align: center;}
-  p    {color:blue; text-align: center;}
-  img  {margin: auto; display: block; width: 25%;}
-
-  .portfolio {width: 100%; text-align: center;}
-}
-
-</style>
+  <link href="css/style.css" rel="stylesheet">
+  <link href="css/carousel.css" rel="stylesheet">
 
 </head>
 
 <body>
 
+  <div class="navbar-wrapper">
+  <div class="container">
+
+    <nav class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Project 1</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#project2">Project 2</a></li>
+            <li><a href="#project3">Project 3</a></li>
+            <li><a href="#project4">Project 4</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+  </div>
+</div>
+
+</br>
+
   <div class="portfolio">
 
-    <h1>Ilya Nossov</h1>
+    <div class="name">
+      <h1>Ilya Nossov</h1>
+    </div>
 
     <img src='images/ilya.jpg' alt='Profile Photo'>
 
     <h2>Portfolio Projects:</h2>
 
     <h3>Project 2</h3>
-      <p>Live URL: TODO</p>
-      <p>Github URL: TODO</p>
+      <p>Live URL: <a href="#">TODO</a></p>
+      <p>Github URL: <a href="#">TODO</a></p>
 
     <h3>Project 3</h3>
-      <p>Live URL: TODO</p>
-      <p>Github URL: TODO</p>
+      <p>Live URL: <a href="#">TODO</a></p>
+      <p>Github URL: <a href="#">TODO</a></p>
 
     <h3>Project 4</h3>
-      <p>Live URL: TODO</p>
-      <p>Github URL: TODO</p>
+      <p>Live URL: <a href="#">TODO</a></p>
+      <p>Github URL: <a href="#">TODO</a></p>
 
+
+  </div>
+
+  <div class="footer">
+      <p class="pull-right"><a href="#">Back to top</a></p>
+      <p>&copy; 2015 Ilya Nossov</p>
   </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

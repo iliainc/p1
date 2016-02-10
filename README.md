@@ -4,7 +4,7 @@
 <http://p1.ilyanossov.me>
 
 ## Description
-This project sets the stage for listing future projects in a portfolio fashion. Included are placeholders for the links which will point to the future projects as they're completed.
+This project sets the stage for listing future projects in a portfolio fashion, while leveraging the Bootstrap framework to build a responsive website. Included are placeholders for the links which will point to future projects as they're completed.
 
 ## Demo
 <https://www.youtube.com/TODO>
@@ -15,5 +15,6 @@ No login required.
 ## Outside code
 * Basic HTML Structure: http://www.w3schools.com/html/
 * Basic CSS Structure: http://www.w3schools.com/html/html_css.asp
+* CSS Div Spacing: http://stackoverflow.com/questions/11014724/space-between-two-divs
 * Bootstrap: http://getbootstrap.com/getting-started/
 * Bootstrap Example: http://getbootstrap.com/examples/carousel/
