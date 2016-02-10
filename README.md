@@ -15,5 +15,5 @@ No login required.
 ## Outside code
 * Basic HTML Structure: http://www.w3schools.com/html/
 * Basic CSS Structure: http://www.w3schools.com/html/html_css.asp
-* Bootstrap: http://getbootstrap.com/
-* Bootstrap Theme: http://bootswatch.com/flatly/
+* Bootstrap: http://getbootstrap.com/getting-started/
+* Bootstrap Example: http://getbootstrap.com/examples/carousel/
