@@ -56,15 +56,40 @@
 
     <h2>Portfolio Projects:</h2>
 
-    <h3>Project 2</h3>
+    <div class="container marketing">
+
+
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="images/ilya.jpg" alt="Project 2 image" width="140" height="140">
+          <h3 id="project2">Project 2</h3>
+          <p>Live URL: <a href="#">TODO</a></p>
+          <p>Github URL: <a href="#">TODO</a></p>
+          <p><a class="btn btn-default" href="#" role="button">View Project! &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="images/ilya.jpg" alt="Project 3 image" width="140" height="140">
+          <h3>Project 3</h3>
+          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="images/ilya.jpg" alt="Project 4 image" width="140" height="140">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+    <h3 id="project2">Project 2</h3>
       <p>Live URL: <a href="#">TODO</a></p>
       <p>Github URL: <a href="#">TODO</a></p>
 
-    <h3>Project 3</h3>
+    <h3 id="project3">Project 3</h3>
       <p>Live URL: <a href="#">TODO</a></p>
       <p>Github URL: <a href="#">TODO</a></p>
 
-    <h3>Project 4</h3>
+    <h3 id="project4">Project 4</h3>
       <p>Live URL: <a href="#">TODO</a></p>
       <p>Github URL: <a href="#">TODO</a></p>
 

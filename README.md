@@ -16,5 +16,7 @@ No login required.
 * Basic HTML Structure: http://www.w3schools.com/html/
 * Basic CSS Structure: http://www.w3schools.com/html/html_css.asp
 * CSS Div Spacing: http://stackoverflow.com/questions/11014724/space-between-two-divs
+* Footer Alignment: http://stackoverflow.com/questions/15725098/how-to-align-footer-text-on-the-right-and-on-the-left
+* Menu Link Anchors: http://www.w3schools.com/html/html_links.asp
 * Bootstrap: http://getbootstrap.com/getting-started/
 * Bootstrap Example: http://getbootstrap.com/examples/carousel/
