@@ -57,8 +57,6 @@
     <h2>Portfolio Projects:</h2>
 
     <div class="container marketing">
-
-
       <div class="row">
         <div class="col-lg-4">
           <img class="img-circle" src="images/php.gif" alt="Project 2 image" width="140" height="140">
@@ -91,7 +89,7 @@
       <p>&copy; 2015 Ilya Nossov</p>
   </div>
 
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
+
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 </body>
 </html>
