@@ -13,6 +13,7 @@ This project sets the stage for listing future projects in a portfolio fashion. 
 No login required.
 
 ## Outside code
-* Word list: http://TODO
+* Basic HTML Structure: http://www.w3schools.com/html/
+* Basic CSS Structure: http://www.w3schools.com/html/html_css.asp
 * Bootstrap: http://getbootstrap.com/
 * Bootstrap Theme: http://bootswatch.com/flatly/
