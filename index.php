@@ -86,7 +86,7 @@
 
   <div class="footer">
       <p class="pull-right"><a href="#">Back to top</a></p>
-      <p>&copy; 2015 Ilya Nossov</p>
+      <p>&copy; 2016 Ilya Nossov</p>
   </div>
 
 
