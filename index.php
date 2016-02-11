@@ -44,8 +44,6 @@
   </div>
 </div>
 
-</br>
-
   <div class="portfolio">
 
     <div class="name">
